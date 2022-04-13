@@ -2,6 +2,7 @@
 Simple arduino project to represent the angle of the wheelie on the motorbike.
 
 Check the video of how it works here -> https://www.reddit.com/r/arduino/comments/hmg15r/i_made_a_motorbike_wheelie_angle_indicator/
+and here -> https://www.reddit.com/r/arduino/comments/hl873w/wheelie_pitch_angle_indicator_tool/
 
 It's a simple arduino project, way easier then it might seem.
 
